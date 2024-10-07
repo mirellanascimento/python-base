@@ -1,4 +1,7 @@
 import os
+import sys
+
+print(f"{sys.argv=}")
 
 current_language = os.getenv("LANG", "en_US")[:5]
 
