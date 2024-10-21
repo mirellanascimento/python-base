@@ -1,0 +1,4 @@
+('Minha primeira nota!',)/ttech/tTestando arquivo/t
+
+Minha primeira nota	tech	Testando arquivo	
+
